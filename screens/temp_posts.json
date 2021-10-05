@@ -1,0 +1,22 @@
+[
+  {
+    "author": "Apoorv Goyal",
+    "caption": "Caption 1",
+    "introduction": "Yoga is essentialy a spiritual discipline based on an extremelly subtle science, which focuses on bringing harmony between mind and body. / It is an art and science of healthy living",
+    "description": "Yoga is mond and body practice. Various styles of yoga combine physical postures, breathing technique, and meditation or relaxation.",
+    "types": "there are many styles of yoga. A person should choose a style based on their goals and fitness level.",
+    "ashtangayoga": "Ashtanga applies the same poses and sequences that rapidly link every movement to breath.",
+    "bikramyoga": "People practice Bikram yoga, also known as hot yoga, in artificial heated room at a temperature of nearly 105^o F and 40% humidity. it consist of 26 poses and a sequence of two breathing exercises.",
+    "hathayoga": "This is an generic term for any type of yoga that teaches phyical poses. Hatha classes usually serve as a gentel introduction to the basic poses of yoga"
+  },
+  {
+    "author": "Ayush Goyal",
+    "caption": "Caption 2",
+    "introduction": "Yoga is essentialy a spiritual discipline based on an extremelly subtle science, which focuses on bringing harmony between mind and body. / It is an art and science of healthy living",
+    "description": "Yoga is mond and body practice. Various styles of yoga combine physical postures, breathing technique, and meditation or relaxation.",
+    "types": "there are many styles of yoga. A person should choose a style based on their goals and fitness level.",
+    "Ashtanga Yoga": "Ashtanga applies the same poses and sequences that rapidly link every movement to breath.",
+    "Bikram Yoga": "People practice Bikram yoga, also known as hot yoga, in artificial heated room at a temperature of nearly 105^o F and 40% humidity. it consist of 26 poses and a sequence of two breathing exercises.",
+    "Hatha Yoga": "This is an generic term for any type of yoga that teaches phyical poses. Hatha classes usually serve as a gentel introduction to the basic poses of yoga"
+  }
+]
